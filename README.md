@@ -11,3 +11,11 @@
 Информацию про ту или иную дисциплину можно найти в ветках (Branch)
 
 ![Gosling](https://media.giphy.com/media/pi1HV6hj5Cffy/giphy.gif)
+
+# ВНИМАНИЕ
+
+![uncleSam](https://kulturologia.ru/files/u18476/Sovietpropaganda-2.jpg)
+
+## Нет информации про какого-то преподавателя/дисциплину, но ты что-то знаешь и хочешь облегчить жизнь будущему поколению? 
+- Смело кидай pull request!
+- Либо пиши мне в тг (@wupiupi)!
